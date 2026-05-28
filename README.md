@@ -1,7 +1,7 @@
 <h1>Marble-Shooting-RC-Tank</h1>
 
  ### [YouTube Demonstration](https://youtu.be)
- ### [YouTube Build Overview](https://youtu.be)
+
 
 <h2>Description</h2>
 Designed and built a fully custom RC tank, including the metal body, DIY tank tread, drivetrain, and rotating marble-launching turret. The vehicle is controlled using an Arduino Mega and a FlySky RC controller. The project involved CAD modeling, metalworking with a bandsaw, mechanical design, microcontroller programming and electronics integration.
@@ -19,19 +19,22 @@ Designed and built a fully custom RC tank, including the metal body, DIY tank tr
 
 
 <p align="center">
-Tread Design:
+Running Gear Design:
 <br />
 <br />
 <img src="images/treadsTANK.png" width="40%" alt="DIY tank tread system layout"/>
-<img src="images/wheelsTANK.png" width="40%" alt="Custom wheel design and 3D printed wheel model"/>
-
+<img src="images/wheelsTANK.png" width="45%" alt="Custom wheel design and 3D printed wheel model"/>
+ 
+The tank running gear system was built using repurposed tracks from a model toy vehicle combined with reinforced conveyor-belt wire. Metal pulleys were directly connected to two 24V DC motors and functioned as the drive sprockets. The idler wheels used garage door rollers as wheel bearings, each connected to a CAD-modeled and 3D-printed outer wheel with integrated pulley grooves to keep the tracks aligned during operation. Epoxy was used to bond the mounting brackets and 3D-printed outer wheels to the garage door rollers, creating a functional running gear system.
+ 
 <p align="center">
-Drivetrain:
+Mounted Running Gear:
 <br />
 <br />
 <img src="images/motorsTANK.png" width="40%" alt="RC tank drive motor and wheel assembly"/>
 <img src="images/TreadsFTANK.png" width="40%" alt="RC tank tread and drivetrain assembly"/>
-
+ 
+Wiring access holes were drilled through the 1/8-inch metal chassis plate, and the drive motors were mounted using metal brackets and rivets for a strong connection. The rear idler wheels were mounted using spacers connected to custom copper brackets with screws to keep the running gear aligned and securely attached to the frame. The tank tracks were tensioned around the drive sprocket and rear idler wheel to create the tracked drivetrain.
  
 <p align="center">
 Turret:
@@ -39,3 +42,19 @@ Turret:
 <br />
 <img src="images/MSPartsTANK.jpeg" width="30%" alt="Marble shooter parts before assembly"/>
 <img src="images/MarbleShooterTANK.png" width="33%" alt="Marble loaded in the turret firing mechanism"/>
+ 
+<p align="center">
+Body:
+<br />
+<br />
+<img src="images/BodyTANK.png" width="80%" alt="Metal RC tank body and drivetrain"/>
+ 
+<p align="center">
+Electronics:
+<br />
+<br />
+<img src="images/WDTANK.png" width="50%" alt="RC tank component layout diagram"/>
+<img src="images/PowerTANK.JPG" width="30%" alt="Metal RC tank body and drivetrain"/>
+
+
+
