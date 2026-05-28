@@ -42,12 +42,16 @@ Turret:
 <br />
 <img src="images/MSPartsTANK.jpeg" width="30%" alt="Marble shooter parts before assembly"/>
 <img src="images/MarbleShooterTANK.png" width="33%" alt="Marble loaded in the turret firing mechanism"/>
+
+The turret assembly was built using a PVC pipe barrel, two 24V DC motors, a servo motor for turret rotation, and a linear servo used as a loading mechanism. Up to five marbles could be loaded into the PVC barrel, where the linear servo pushed them between two rotating 3D-printed gears wrapped in rubber, to launch the projectiles.
  
 <p align="center">
 Body:
 <br />
 <br />
 <img src="images/BodyTANK.png" width="80%" alt="Metal RC tank body and drivetrain"/>
+
+The tank body was created from sheet metal that was cut to shape using a metal bandsaw and assembled using rivets. Internal components including the kill switch, turret assembly, and rear LEDs were then mounted inside on top of a clear plastic sheet to help prevent electrical shorts between the electronics and metal chassis.
  
 <p align="center">
 Electronics:
@@ -56,5 +60,6 @@ Electronics:
 <img src="images/WDTANK.png" width="50%" alt="RC tank component layout diagram"/>
 <img src="images/PowerTANK.JPG" width="30%" alt="Metal RC tank body and drivetrain"/>
 
+The electronics system was built around an Arduino Mega and a FlySky RC receiver to control the drivetrain, turret rotation, and firing system. Two 24V battery packs wired in parallel powered the tank, while buck converters regulated voltage for the Arduino and linear servo. One dual H-bridge motor driver and two single motor drivers were mounted inside the chassis to control the four 24V DC motors used for the turret and tracked drivetrain. 
 
 
