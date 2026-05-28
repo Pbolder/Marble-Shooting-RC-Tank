@@ -17,6 +17,22 @@ Designed and built a fully custom RC tank, including the metal body, DIY tank tr
 - <b>OnShape</b>
 <h2>Design and Build Process:</h2>
 
+
+<p align="center">
+Tread Design:
+<br />
+<br />
+<img src="images/treadsTANK.png" width="80%" alt="DIY tank tread system layout"/>
+<img src="images/wheelsTANK.png" width="80%" alt="Custom wheel design and 3D printed wheel model"/>
+
+<p align="center">
+Drivetrain:
+<br />
+<br />
+<img src="images/motorsTANK.png" width="80%" alt="RC tank drive motor and wheel assembly"/>
+<img src="images/TreadsFTANK.png" width="80%" alt="RC tank tread and drivetrain assembly"/>
+
+ 
 <p align="center">
 Turret:
 <br />
