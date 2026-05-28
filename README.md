@@ -17,3 +17,9 @@ Designed and built a fully custom RC tank, including the metal body, DIY tank tr
 - <b>OnShape</b>
 <h2>Design and Build Process:</h2>
 
+<p align="center">
+Turret:
+<br />
+<br />
+<img src="images/MSPartsTANK.jpeg" width="30%" alt="Marble shooter parts before assembly"/>
+<img src="images/MarbleShooterTANK.png" width="33%" alt="Marble loaded in the turret firing mechanism"/>
