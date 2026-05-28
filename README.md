@@ -4,7 +4,7 @@
  ### [YouTube Build Overview](https://youtu.be)
 
 <h2>Description</h2>
-Designed and built a fully custom RC tank, including the metal body, DIY tank tread drivetrain, and rotating marble-launching turret. The vehicle is controlled using an Arduino Mega and a FlySky RC controller. The project involved CAD modeling, metalworking with a bandsaw, mechanical design, microcontroller programming and electronics integration.
+Designed and built a fully custom RC tank, including the metal body, DIY tank tread, drivetrain, and rotating marble-launching turret. The vehicle is controlled using an Arduino Mega and a FlySky RC controller. The project involved CAD modeling, metalworking with a bandsaw, mechanical design, microcontroller programming and electronics integration.
 <br />
 
 
