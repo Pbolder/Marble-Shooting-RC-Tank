@@ -62,4 +62,16 @@ Electronics:
 
 The electronics system was built around an Arduino Mega and a FlySky RC receiver to control the drivetrain, turret rotation, and firing system. Two 24V battery packs wired in parallel powered the tank, while buck converters regulated voltage for the Arduino and linear servo. One dual H-bridge motor driver and two single motor drivers were mounted inside the chassis to control the four 24V DC motors used for the turret and tracked drivetrain. 
 
+Key Code Components:
+<br />
+<br />
+<img src="Code1TANK.png" alt="Code Snippet 1" width="700"/>
+
+<img src="Code2TANK.png" alt="Code Snippet 2" width="700"/>
+
+<img src="Code3TANK.png" alt="Code Snippet 3" width="700"/>
+
+<img src="Code4TANK.png" alt="Code Snippet 4" width="700"/>
+
+    
 
