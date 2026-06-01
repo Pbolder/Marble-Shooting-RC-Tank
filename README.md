@@ -73,6 +73,6 @@ Key Code Components:
 <img src="images/Code3TANK.png" alt="Code Snippet 3" width="47%"/>
 
 <img src="images/Code4TANK.png" alt="Code Snippet 4" width="50%"/>
-The Arduino Mega receives commands from the FlySky RC receiver and controls the tank’s drivetrain, turret rotation, and firing system. Joystick inputs are converted into motor speeds and directions for steering.he program also manages turret motor operation with smooth acceleration and deceleration, preventing abrupt stops of the 24v turret motors. LED indicators and serial monitor outputs were added to provide status feedback and simplify troubleshooting during testing.
+The Arduino Mega receives commands from the FlySky RC receiver and controls the tank’s drivetrain, turret rotation, and firing system. Joystick inputs are converted into motor speeds and directions for steering. The program also manages turret motor operation with smooth acceleration and deceleration, preventing abrupt stops of the 24v turret motors. LED indicators and serial monitor outputs were added to provide status feedback and simplify troubleshooting during testing.
     
 
